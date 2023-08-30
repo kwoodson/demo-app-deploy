@@ -6,4 +6,4 @@ resources:
 
 images:
 - name: ghcr.io/kwoodson/demo-app
-  newTag: latest
+  newTag: 84fab1196ebdc4b09ee1dadbf1b68a3cd046c192
