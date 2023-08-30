@@ -1,1 +1,3 @@
 image: ghcr.io/kwoodson/demo-app:45743e026694e8059dc23b924616e89357a5caa6
+
+env: stage
